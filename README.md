@@ -1,2 +1,2 @@
 # GBett.github.io
-Link: https://gbett.github.io/portfolio/
+Link: https://gkbett.github.io/portfolio/
